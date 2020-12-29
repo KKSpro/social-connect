@@ -17,12 +17,19 @@ BUILD WITH –
 •	Firebase – database
 •	Express
 
+Live Demo
+https://devconnect-social-media.herokuapp.com/
+
 Screenshots
 
 ![Screenshot (40)](https://user-images.githubusercontent.com/54896636/103288098-2113b480-4a0a-11eb-950f-ad008bb88a0c.png)
+
 ![Screenshot (37)](https://user-images.githubusercontent.com/54896636/103288270-8071c480-4a0a-11eb-9bdd-ca688772b36c.png)
+
 ![Screenshot (38)](https://user-images.githubusercontent.com/54896636/103288276-85cf0f00-4a0a-11eb-857f-13a5c114472c.png)
+
 ![Screenshot (39)](https://user-images.githubusercontent.com/54896636/103288286-8a93c300-4a0a-11eb-8278-5e153c6db7c7.png)
+
 ![Screenshot (41)](https://user-images.githubusercontent.com/54896636/103288293-8f587700-4a0a-11eb-83ba-14501a74d76a.png)
 
 
