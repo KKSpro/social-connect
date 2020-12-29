@@ -9,11 +9,15 @@ CHAT OPTION IS ALSO AVAILABLE.
 UPDATE USER INFORMATION.
 
 BUILD WITH –
+
 •	React – A javascript library for building user interface.
 •	Redux – State management
 •	Socket UI – for realtime features
 •	Nodejs – Backend
 •	Firebase – database
+•	Express
+
+
 
 
 
