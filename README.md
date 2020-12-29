@@ -17,7 +17,7 @@ BUILD WITH –
 •	Firebase – database
 •	Express
 
-https://github.com/KKSpro/social-connect/issues/1#issue-775894776
+![ScreenShot]https://github.com/KKSpro/social-connect/issues/1#issue-775894776
 
 
 
